@@ -11,25 +11,17 @@
    3. 概率论基础
 ## 进阶
    1. Andrew Ng的Machine Learning课程
-   * 课程地址：
-   [英文地址](https://www.coursera.org/learn/machine-learning)  
-   [中文地址](https://study.163.com/course/courseMain.htm?courseId=1004570029)
-   * 课程笔记：  
-   (https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+   * 课程地址：[英文地址](https://www.coursera.org/learn/machine-learning)  [中文地址](https://study.163.com/course/courseMain.htm?courseId=1004570029)
+   * 课程笔记：https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes  
    ps:这份课程笔记来自中国海洋大学的黄海广博士，笔记、课件、ppt、课后作业参考等非常全面。
    2. Andrew Ng的Deep Learning Specialization课程
-   * 课程地址：  
-   [英文地址](https://www.coursera.org/specializations/deep-learning)  
-   [中文地址](https://mooc.study.163.com/university/deeplearning_ai#/c)
+   * 课程地址：[英文地址](https://www.coursera.org/specializations/deep-learning)  [中文地址](https://mooc.study.163.com/university/deeplearning_ai#/c)  
    不过英文课程目前在Coursera上是收费的。
-   * 课程笔记：
-   (https://github.com/fengdu78/deeplearning_ai_books)
+   * 课程笔记：https://github.com/fengdu78/deeplearning_ai_books  
    ps:这份课程笔记同样来自于中国海洋大学的黄海广博士。
    3. Feifei Li的CS231n课程
-   * 课程地址：  
-   [课程主页](http://cs231n.stanford.edu/)  
-   [中文地址](https://study.163.com/course/courseMain.htm?courseId=1004697005)
-   课程笔记目前没有比较全面系统的，本人在撰写ing~
+   * 课程地址：[课程主页](http://cs231n.stanford.edu/)  [中文地址](https://study.163.com/course/courseMain.htm?courseId=1004697005)
+   * 课程笔记目前没有比较全面系统的，本人在撰写ing~
    
    
    
